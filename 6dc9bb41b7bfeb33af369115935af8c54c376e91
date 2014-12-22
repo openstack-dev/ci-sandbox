@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Waldemar Znoinski - test CI <wznoinski@gmail.com>
+Verified+1: Waldemar Znoinski - test CI <wznoinski@gmail.com>
+Workflow+1: Waldemar Znoinski - test CI <wznoinski@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 22 Dec 2014 17:04:38 +0000
+Reviewed-on: https://review.openstack.org/143487
+Project: openstack-dev/ci-sandbox
+Branch: refs/heads/master

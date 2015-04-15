@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: Victor Howard <victor.r.howard@gmail.com>
+Verified+1: Victor Howard <victor.r.howard@gmail.com>
+Workflow+1: Victor Howard <victor.r.howard@gmail.com>
+Verified+1: HP Networking CI <hpnopenstackci@hp.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 15 Apr 2015 18:32:32 +0000
+Reviewed-on: https://review.openstack.org/165606
+Project: openstack-dev/ci-sandbox
+Branch: refs/heads/master

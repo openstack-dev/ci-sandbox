@@ -1,0 +1,6 @@
+Trigger my CI system
+ok, now devstack install is failing.
+for some reason no ./logs in workspace
+fixed logs.added exports. Fixed http from git protocol...
+fixed two exports again override_zuul not set
+bug in script?. Not sure yet.

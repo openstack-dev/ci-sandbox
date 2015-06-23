@@ -1,0 +1,6 @@
+Trigger my CI system
+all servers start now.
+Jenkins not triggered
+Still not.
+Still not getting forwarded.
+had to roll back the version of jenkins

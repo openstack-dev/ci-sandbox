@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Verified+1: IBM FlashSystem CI <ibmfsci@cn.ibm.com>
+Verified-1: X-IO OpenStack CI <openstack-ci@x-io.com>
+Code-Review+2: dumbbobster@mailinator.com <dumbbobster@mailinator.com>
+Verified-1: dumbbobster@mailinator.com <dumbbobster@mailinator.com>
+Workflow+1: dumbbobster@mailinator.com <dumbbobster@mailinator.com>
+Submitted-by: Jenkins
+Submitted-at: Sat, 27 Jun 2015 00:02:52 +0000
+Reviewed-on: https://review.openstack.org/161467
+Project: openstack-dev/ci-sandbox
+Branch: refs/heads/master

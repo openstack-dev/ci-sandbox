@@ -1,0 +1,16 @@
+Verified+2: Jenkins
+Code-Review+2: Aaron Rosen <aaronorosen@gmail.com>
+Verified+1: Aaron Rosen <aaronorosen@gmail.com>
+Workflow+1: Aaron Rosen <aaronorosen@gmail.com>
+Verified+1: IBM NAS CI <sasikeda@in.ibm.com>
+Verified-1: IBM DS8000 CI <edlin@us.ibm.com>
+Verified+1: Mirantis Rally CI <rally-ci@mirantis.com>
+Verified-1: HGST Solutions CI <openstack-ci-team@hgst.com>
+Verified-1: Huawei Manila CI <huawei-manila-ci@huawei.com>
+Verified-1: Vedams DotHillDriver CI <vedams_dothill_ci@vedams.com>
+Verified+1: Dot Hill Storage CI <cinder+dothill@tristero.net>
+Submitted-by: Jenkins
+Submitted-at: Thu, 30 Jul 2015 08:05:56 +0000
+Reviewed-on: https://review.openstack.org/207289
+Project: openstack-dev/ci-sandbox
+Branch: refs/heads/master

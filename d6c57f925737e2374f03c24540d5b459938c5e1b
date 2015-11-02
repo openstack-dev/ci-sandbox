@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Verified+1: Mirantis Rally CI <rally-ci@mirantis.com>
+Verified+1: 6WIND Networking CI <openstack-networking-ci@6wind.com>
+Code-Review+2: teju_vit <mogilisetti.sreeteja2014@vit.ac.in>
+Verified+1: teju_vit <mogilisetti.sreeteja2014@vit.ac.in>
+Workflow+1: teju_vit <mogilisetti.sreeteja2014@vit.ac.in>
+Submitted-by: Jenkins
+Submitted-at: Mon, 02 Nov 2015 12:33:27 +0000
+Reviewed-on: https://review.openstack.org/240835
+Project: openstack-dev/ci-sandbox
+Branch: refs/heads/master

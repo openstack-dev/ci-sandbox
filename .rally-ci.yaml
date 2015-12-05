@@ -1,0 +1,10 @@
+---
+
+- job:
+    name: rci-test-local
+    provider: ci4950
+    voting: false
+    vms:
+      name: ubuntu_dsvm
+      scripts:
+        - git_checkout

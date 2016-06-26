@@ -1,1 +1,0 @@
-testing iscsi driver for kaminario2

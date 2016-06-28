@@ -1,0 +1,11 @@
+Code-Review+2: nikesh <Nikesh.Mahalka.ctr@kaminario.com>
+Workflow+1: nikesh <Nikesh.Mahalka.ctr@kaminario.com>
+Verified+1: Mirantis Rally CI <rally-ci@mirantis.com>
+Verified-1: Canonical CI <uosci-testing-bot@ubuntu.com>
+Verified+1: ZTE cinder2 CI <zhou.lichao@zte.com.cn>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 28 Jun 2016 10:53:00 +0000
+Reviewed-on: https://review.openstack.org/334915
+Project: openstack-dev/ci-sandbox
+Branch: refs/heads/master

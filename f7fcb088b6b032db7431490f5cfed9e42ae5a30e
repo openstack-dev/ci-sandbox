@@ -1,0 +1,14 @@
+Verified+1: Mirantis Rally CI <rally-ci@mirantis.com>
+Verified+1: ZTE cinder2 CI <zhou.lichao@zte.com.cn>
+Verified-1: Canonical CI <uosci-testing-bot@ubuntu.com>
+Verified-1: Alekhya <alekhyam@vedams.com>
+Verified+1: ITRI DISCO CI <itri_cinder@itri.org.tw>
+Code-Review+2: lakshman <Lakshmi.Narayana.ctr@kaminario.com>
+Verified-1: Huawei Manila CI <huawei-manila-ci@huawei.com>
+Workflow+1: lakshman <Lakshmi.Narayana.ctr@kaminario.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 28 Jun 2016 10:49:43 +0000
+Reviewed-on: https://review.openstack.org/334911
+Project: openstack-dev/ci-sandbox
+Branch: refs/heads/master

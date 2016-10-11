@@ -6,4 +6,4 @@ For detail, see the `Third Party Testing document
 <http://docs.openstack.org/infra/system-config/third_party.html>`_.
 
 
-asdasdadadaasdfa
+CI testing

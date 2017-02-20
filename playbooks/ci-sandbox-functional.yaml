@@ -1,0 +1,5 @@
+- hosts: all
+  tasks:
+    - name: Run functional test script
+#      command: run-functional-tests.sh
+      command: "hostname > /tmp/result"

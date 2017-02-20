@@ -1,0 +1,9 @@
+- hosts: all
+  tasks:
+    - name: Run functional test script
+#      command: run-functional-tests.sh
+      command: "hostname > /tmp/result"
+    - zuul_return:
+        data:
+          zuul:
+            log_url: http://192.168.10.22:8000/

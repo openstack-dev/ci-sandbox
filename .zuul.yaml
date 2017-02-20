@@ -1,0 +1,5 @@
+- project:
+  name: openstack-dev/ci-sandbox
+  check:
+    jobs:
+      - tox-py35

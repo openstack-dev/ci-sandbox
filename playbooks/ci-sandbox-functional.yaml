@@ -1,0 +1,11 @@
+- hosts: all
+  tasks:
+    - name: Run functional test script
+#      command: run-functional-tests.sh
+      command: "ls -l"
+      args:
+        project_name: "{{ zuul.project.name }}"
+        branch: "{{ zuul.branch }}"
+        ref: "{{ zuul.ref }}"
+        change: "{{ zuul.change }}"
+        patchset: "{{ zuul.patchset }}"

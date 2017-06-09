@@ -1,0 +1,15 @@
+Verified+1: Canonical CI <uosci-testing-bot@ubuntu.com>
+Verified+1: VMware NSX CI
+Verified+1: IBM PowerVM CI <powervmci@linux.vnet.ibm.com>
+Verified+1: Mirantis Rally CI <rally-ci@mirantis.com>
+Verified+1: INSPUR-CI <inspur.ci@inspur.com>
+Verified+1: Infinidat Cinder CI <jenkins@infinidat.com>
+Code-Review+2: duanyuying <duan_yuying@163.com>
+Verified+1: duanyuying <duan_yuying@163.com>
+Workflow+1: duanyuying <duan_yuying@163.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 09 Jun 2017 05:52:45 +0000
+Reviewed-on: https://review.openstack.org/472492
+Project: openstack-dev/ci-sandbox
+Branch: refs/heads/master

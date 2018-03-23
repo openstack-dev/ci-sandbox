@@ -1,1 +1,0 @@
-echo "first test script"
